@@ -28,10 +28,6 @@ Currently deep in statistical arbitrage: cointegration, spread mean-reversion an
       <br>JavaScript
     </td>
     <td align="center" width="110" height="100">
-      <a href="#tech-stack"><img src="https://cdn.simpleicons.org/wolframmathematica/DD1100" width="44" height="44" alt="Wolfram" /></a>
-      <br>Wolfram
-    </td>
-    <td align="center" width="110" height="100">
       <a href="#tech-stack"><img src="https://cdn.simpleicons.org/tradingview/2962FF" width="44" height="44" alt="Pine Script" /></a>
       <br>Pine Script
     </td>
